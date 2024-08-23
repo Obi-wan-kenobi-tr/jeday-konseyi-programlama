@@ -11,4 +11,11 @@ Bellek nedir?
 Bilgisayar programlama nedir?
 Makinadili yani ikili kod nedir?
 İşletim sistemi nedir?
+
 Bu temel konuları anlamak, ileriye dönük projelerinizde size büyük fayda sağlayacaktır. Her sorunun cevabını araştırarak öğrenmeye başlayın ve anlamadığınız noktaları sormaktan çekinmeyin. Başarılar!
+
+
+Notları paylaşmak için dosyanızın ismi şu şekilde olmalıdır.
+
+İsminiz(Nick veya isim,soyisim)-TemelKavramlar.txt
+
