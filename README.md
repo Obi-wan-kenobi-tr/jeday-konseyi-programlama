@@ -1,4 +1,6 @@
 # jeday-konseyi-programlama-Kampı
+(Bu readme dosyası ChatGPT'e yazdırılmıştır vakit olduğunda kendi elimle yazacağım)
+
 Proje Hakkında
 Bu proje, yazılım kampı kapsamında öğrencilerin programlama ve araştırma becerilerini geliştirmeyi amaçlamaktadır. Öğrenciler, belirli konularda araştırma yapacak ve verilen ödevleri tamamlayarak öğrenme sürecine katkıda bulunacaklardır.
 
