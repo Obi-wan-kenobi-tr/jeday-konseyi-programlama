@@ -2,7 +2,8 @@
 
 Hadi birlikte başlayalım. Bir dil öğrenmeye ve projeler yapmaya başlamadan önce temel bilgileri öğrenmeniz gerekir. Gelin, bu temelleri birlikte atalım.
 
-Ödevleriniz:
+(Bu ödevler için kaynak verilmeyecektir, sizin google veya diğer arama motorlarını kullanmanızı istiyorum)
+Ödevleriniz: 
 
 Bilgisayar nedir?
 Veri nedir?
