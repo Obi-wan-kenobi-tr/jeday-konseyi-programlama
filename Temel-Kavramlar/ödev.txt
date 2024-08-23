@@ -1,1 +1,14 @@
+Öncelikle herkese merhaba arkadaşlar, ilk başlangıca hoş geldiniz!
 
+Hadi birlikte başlayalım. Bir dil öğrenmeye ve projeler yapmaya başlamadan önce temel bilgileri öğrenmeniz gerekir. Gelin, bu temelleri birlikte atalım.
+
+Ödevleriniz:
+
+Bilgisayar nedir?
+Veri nedir?
+Komut nedir?
+Bellek nedir?
+Bilgisayar programlama nedir?
+Makinadili yani ikili kod nedir?
+İşletim sistemi nedir?
+Bu temel konuları anlamak, ileriye dönük projelerinizde size büyük fayda sağlayacaktır. Her sorunun cevabını araştırarak öğrenmeye başlayın ve anlamadığınız noktaları sormaktan çekinmeyin. Başarılar!
